@@ -10,7 +10,7 @@ Backend Developers, Frontend Developers, Full-Stack Engineers, QA/SDETs
 
 ## Lab Duration
 
-60–90 minutes
+45 minutes
 
 ## Prerequisites
 

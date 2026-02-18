@@ -26,7 +26,6 @@ Develop a **full-stack web application** that enables students and campus admini
 ### Frontend
 
 * ReactJS
-* REST API integration
 
 ### Backend (choose ONE)
 

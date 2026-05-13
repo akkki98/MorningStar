@@ -32,7 +32,6 @@ In this lab, you will build a **Morningstar India Investment Education Agent** u
 - Answer questions about mutual fund concepts (NAV, SIP, Expense Ratio)
 - Explain Morningstar ratings (Star Rating, Moat Rating, Analyst Rating)
 - Explain risk and return terms (Alpha, Beta, Sharpe Ratio)
-- Search for live mutual fund data using Power Automate
 - Use uploaded PDF documents as a knowledge source
 
 ### 🏗️ Agent Architecture

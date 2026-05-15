@@ -59,8 +59,8 @@ Before starting this lab, ensure you have:
 - [ ] Permission to create SharePoint sites or access an existing one
 - [ ] Microsoft Copilot Studio license **OR** SharePoint Premium (for agent creation)
 - [ ] The two knowledge source files downloaded:
-  - `Morningstar_Equity_Research_Report.pdf`
-  - `Morningstar_Knowledge_Base.xlsx`
+  - `Morningstar_Equity_Research_Report.pdf`https://poc29e5c.blob.core.windows.net/ref/Morningstar_Equity_Research_Report.pdf
+  - `Morningstar_Knowledge_Base.xlsx` https://poc29e5c.blob.core.windows.net/ref/Morningstar_Knowledge_Base.xlsx
 
 
 ---
